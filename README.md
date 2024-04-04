@@ -4,7 +4,7 @@ LandscapeViewCalendar is a customizable personalized calendar library with a hor
 which are then highlighted for visual confirmation. The selected date is returned for further use, 
 providing seamless integration into your applications.
 
-[![](https://jitpack.io/v/Bhupendrapatel98/LandscapeViewCalendar.svg)](https://jitpack.io/#Bhupendrapatel98/LandscapeViewCalendar)
+[![](https://jitpack.io/v/Bhupendrapatel98/LandscapeViewCalendar.svg)](https://jitpack.io/#Bhupendrapatel98/LandscapeViewCalendar)   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <img src="https://github.com/Bhupendrapatel98/LandscapeViewCalendar/assets/55411086/1c28b788-75e0-4750-b599-c32b74941377" alt="Image 1" width="300" height="150">
 
@@ -60,4 +60,6 @@ Let's make LandscapeViewCalendar even better together!
 
 Now you're all set to use the LandscapeViewCalendar in your project. Enjoy the seamless date selection experience!
 
+## License
+The LandscapeViewCalendar library is distributed under the MIT license. See the [LICENSE](https://github.com/Bhupendrapatel98/LandscapeViewCalendar/blob/master/LICENSE.md) file for details.
 
